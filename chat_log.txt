@@ -1,0 +1,14 @@
+Daniel has connected to the chat room
+Liran has connected to the chat room
+Ohad has connected to the chat room
+Sara has connected to the chat room
+Yael has connected to the chat room
+Moses has connected to the chat room
+Daniel: Hey
+Liran: Hey
+Ohad: Hello
+Sara: Hello
+Yael: whats up?
+Moses: ma nishma?
+Sara has left the chat room!
+Daniel has left the chat room!
